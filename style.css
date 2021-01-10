@@ -1,0 +1,44 @@
+body{background-color: #fce38a;}
+hr{border-style: none;
+  border-top-style: dotted;
+width:15%;
+height:0;
+border-color: #30e3ca;
+border-width: 15px;
+background-color: #fce38a;}
+h1 {color:#6a2c70;}
+h3 {color:#fc5185;}
+p {
+  color: #433d3c;
+}
+ol{color: #433d3c;}
+ul{color: #433d3c;}
+img{height: 200px;
+width:200px;}
+p:hover{
+color:#000000;
+font-size: 30px;
+}
+h1:hover{
+  color:#000000;
+  font-size: 50px;
+  font-family: "algerian";
+}
+h3:hover{
+  color:#000000;
+  font-size: 40px;
+}
+li:hover{
+  color:#000000;
+  font-size: 30px;
+}
+img:hover{
+  border-radius: 150px;
+}
+.purpose_link{
+  display:inline;
+}
+input{
+  width:150px;
+  height:20px;
+}
