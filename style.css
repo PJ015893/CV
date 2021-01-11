@@ -1,17 +1,17 @@
-body{background-color: #fce38a;}
+body{background-color: #222831;}
 hr{border-style: none;
   border-top-style: dotted;
 width:15%;
 height:0;
-border-color: #30e3ca;
+border-color: #eeeeee;
 border-width: 15px;
-background-color: #fce38a;}
-h1 {color:#6a2c70;}
-h3 {color:#fc5185;}
+background-color: #222831;}
+h1 {color:#eeeeee;}
+h3 {color:#eeeeee;}
 p {
-  color: #433d3c;
+  color: #00adb5;
 }
-ol{color: #433d3c;}
-ul{color: #433d3c;}
+ol{color: #00adb5;}
+ul{color: #00adb5;}
 img{height: 200px;
 width:200px;}
