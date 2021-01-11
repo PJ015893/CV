@@ -3,16 +3,16 @@ hr{border-style: none;
   border-top-style: dotted;
 width:15%;
 height:0;
-border-color: #eeeeee;
+border-color: #f05454;
 border-width: 15px;
 background-color: #dddddd;}
-h1 {color:#eeeeee;}
-h3 {color:#eeeeee;}
+h1 {color:#f05454;}
+h3 {color:#f05454;}
 p {
-  color: #00adb5;
+  color: #222831;
 }
-ol{color: #00adb5;}
-ul{color: #00adb5;}
+ol{color: #222831;}
+ul{color: #222831;}
 img{height: 200px;
 width:200px;}
 div{
