@@ -1,0 +1,40 @@
+body{background-image: url(pragya_design.jpeg);
+  background-repeat: no-repeat;
+background-size: cover;}
+hr{border-style: none;
+  border-top-style: dotted;
+width:15%;
+height:0;
+border-color: #892cdc;
+border-width: 15px;
+background-color: transparent;}
+h1 {
+  color:#892cdc;
+}
+h3 {
+  color:#892cdc;
+}
+p {
+  color: #222831;
+}
+ol{
+  color: #222831;
+}
+ul{
+  color: #222831;
+}
+img{
+  height: 200px;
+  width:200px;
+}
+a{
+  color:#222831;
+}
+.link{
+  display:inline-block;
+}
+div{
+  bottom:1px;
+  left:5px;
+  position:relative;
+}
