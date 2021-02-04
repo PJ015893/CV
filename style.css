@@ -23,9 +23,8 @@ ol{
 ul{
   color: #222831;
 }
-img{
-  height: 200px;
-  width:200px;
+img:hover{
+  radius:100%;
 }
 a{
   color:#222831;
