@@ -10,18 +10,23 @@ border-width: 15px;
 background-color: transparent;}
 h1 {
   color:#892cdc;
+  font-family: 'Bilbo Swash Caps', cursive;
 }
 h3 {
   color:#892cdc;
+  font-family: 'Bilbo Swash Caps', cursive;
 }
 p {
   color: #222831;
+  font-family: 'Niconne', cursive;
 }
 ol{
   color: #222831;
+  font-family: 'Niconne', cursive;
 }
 ul{
   color: #222831;
+  font-family: 'Niconne', cursive;
 }
 img:hover{
   border-radius:100%;
@@ -31,9 +36,4 @@ a{
 }
 .link{
   display:inline-block;
-}
-div{
-  bottom:1px;
-  left:5px;
-  position:fixed;
 }
