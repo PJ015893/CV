@@ -1,39 +1,48 @@
 body{background-image: url(pragya_design.jpeg);
   background-repeat: no-repeat;
-background-size: cover;}
+background-size: cover;
+}
 hr{border-style: none;
   border-top-style: dotted;
 width:15%;
 height:0;
 border-color: #892cdc;
-border-width: 15px;
+border-width: 25px;
 background-color: transparent;}
 h1 {
   color:#892cdc;
   font-family: 'Bilbo Swash Caps', cursive;
+  font-size:5rem;
 }
 h3 {
   color:#892cdc;
   font-family: 'Bilbo Swash Caps', cursive;
+  font-size:3rem;
 }
 p {
   color: #222831;
   font-family: 'Niconne', cursive;
+  font-size:25px;
 }
 ol{
   color: #222831;
   font-family: 'Niconne', cursive;
+  font-size:25px;
 }
 ul{
   color: #222831;
   font-family: 'Niconne', cursive;
+  font-size:25px;
 }
 img:hover{
   border-radius:100%;
 }
 a{
   color:#222831;
+  text-decoration:none;
 }
-.link{
-  display:inline-block;
+a:hover{
+  background-color:#fdffbc;
+  color: #00e7ff;
+  text-decoration:underline;
 }
