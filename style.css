@@ -47,5 +47,5 @@ a:hover{
   text-decoration:underline;
 }
 .link{
-  display:inline;
+  display:inline-block;
 }
