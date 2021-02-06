@@ -35,5 +35,5 @@ a{
 div{
   bottom:1px;
   left:5px;
-  position:relative;
+  position:fixed;
 }
