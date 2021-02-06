@@ -46,3 +46,6 @@ a:hover{
   color: #00e7ff;
   text-decoration:underline;
 }
+.link{
+  display:inline;
+}
